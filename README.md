@@ -22,7 +22,7 @@
   Why monero? Why not a patrion, opencollective, etc?
 </p>
 <p align="center">
-  Because it is really anonymous free money<br>and you have a right to stay undiscoverred from what account, to who and why you pay.
+  Because it is really anonymous freedom money<br>and you have a right to stay undiscoverred from what account, to who and why you pay.
 </p>
 <p align="center">
   However if you whant to be visible, you have another, right way - <a href="https://github.com/libercoder">contribute</a>, please ;)
